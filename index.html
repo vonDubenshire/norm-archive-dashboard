@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Internet Archive: Norm Macdonald Collections Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="dashboard">
+        <!-- Header -->
+        <header class="header">
+            <div class="container">
+                <h1 class="header__title">Internet Archive: Norm Macdonald Collections Dashboard</h1>
+                <p class="header__subtitle">Comprehensive archive exploration and content discovery</p>
+            </div>
+        </header>
+
+        <!-- Main Container -->
+        <div class="main-container">
+            <!-- Sidebar -->
+            <aside class="sidebar">
+                <div class="sidebar__section">
+                    <h3>Quick Stats</h3>
+                    <div class="stats-grid">
+                        <div class="stat-item">
+                            <span class="stat-number" id="total-collections">9</span>
+                            <span class="stat-label">Collections</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-number">180GB+</span>
+                            <span class="stat-label">Total Size</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-number">2.2M+</span>
+                            <span class="stat-label">Total Views</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="sidebar__section">
+                    <h3>Search & Filter</h3>
+                    <div class="search-container">
+                        <input type="text" id="search-input" class="form-control" placeholder="Search collections...">
+                    </div>
+                    <div class="filter-buttons">
+                        <button class="btn btn--sm filter-btn active" data-filter="all">All</button>
+                        <button class="btn btn--sm filter-btn" data-filter="video">Video</button>
+                        <button class="btn btn--sm filter-btn" data-filter="audio">Audio</button>
+                        <button class="btn btn--sm filter-btn" data-filter="text">Text</button>
+                    </div>
+                </div>
+
+                <div class="sidebar__section">
+                    <h3>Quick Navigation</h3>
+                    <nav class="nav-links">
+                        <a href="#major-collections" class="nav-link">Major Collections</a>
+                        <a href="#secondary-collections" class="nav-link">Secondary Collections</a>
+                        <a href="#search-tips" class="nav-link">Search Tips</a>
+                        <a href="#missing-content" class="nav-link">Missing Content</a>
+                    </nav>
+                </div>
+            </aside>
+
+            <!-- Main Content -->
+            <main class="main-content">
+                <!-- Major Collections Section -->
+                <section id="major-collections" class="content-section">
+                    <div class="section-header">
+                        <h2>Major Collections</h2>
+                        <p>The most comprehensive and popular Norm Macdonald archives</p>
+                    </div>
+                    <div class="collections-grid" id="major-collections-grid">
+                        <!-- Collections will be dynamically inserted here -->
+                    </div>
+                </section>
+
+                <!-- Secondary Collections Section -->
+                <section id="secondary-collections" class="content-section">
+                    <div class="section-header">
+                        <h2>Secondary Collections</h2>
+                        <p>Additional archives and specialized content</p>
+                    </div>
+                    <div class="collections-grid" id="secondary-collections-grid">
+                        <!-- Collections will be dynamically inserted here -->
+                    </div>
+                </section>
+
+                <!-- Search Tips Section -->
+                <section id="search-tips" class="content-section">
+                    <div class="section-header">
+                        <h2>Search Tips</h2>
+                    </div>
+                    <div class="card">
+                        <div class="card__body">
+                            <ul class="tips-list">
+                                <li>Search 'norm macdonald' OR 'norm macdonald' in Internet Archive</li>
+                                <li>Filter by collection type (videos, audio, texts)</li>
+                                <li>Many files have multiple formats available</li>
+                                <li>Some collections have extensive metadata and descriptions</li>
+                                <li>Audio files often have both streaming and download options</li>
+                            </ul>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Missing Content Section -->
+                <section id="missing-content" class="content-section">
+                    <div class="section-header">
+                        <h2>Notable Missing Content</h2>
+                    </div>
+                    <div class="card">
+                        <div class="card__body">
+                            <ul class="missing-list">
+                                <li><strong>Normism: The Philosophy of Norm Macdonald by Max West</strong> - NOT FOUND in any collection</li>
+                                <li>Some SNL Weekend Update segments may be missing due to NBC copyright</li>
+                                <li>Certain radio appearances may be incomplete</li>
+                                <li>Some live performances exist only as bootlegs</li>
+                            </ul>
+                        </div>
+                    </div>
+                </section>
+            </main>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,214 @@
+{
+  "major_collections": [
+    {
+      "name": "NormMacDonaldArchive1",
+      "url": "https://archive.org/details/NormMacDonaldArchive1",
+      "size": "116.7GB",
+      "upload_date": "2022-02-18",
+      "total_views": "26,442",
+      "favorites": "126",
+      "description": "The most comprehensive Norm Macdonald video archive from r/normmacdonald",
+      "content_categories": {
+        "TV Appearances": [
+          "Letterman appearances (1990-1995) - 7-part collection",
+          "Conan O'Brien appearances (1993-1999) - Multiple episodes",
+          "SNL 25th Anniversary Special (1999)",
+          "Politically Incorrect appearances",
+          "Tonight Show appearances",
+          "Various talk show appearances"
+        ],
+        "Stand-up Comedy": [
+          "White House Correspondents Dinner (1997) - Full performance",
+          "Just for Laughs recordings (1986) - Rare early material",
+          "Comedy Central's Last Laugh '04",
+          "Live performances from various venues",
+          "Bootleg stand-up recordings"
+        ],
+        "Radio Interviews": [
+          "Dennis Miller Show compilation (2007-2011) - 15+ episodes",
+          "Howard Stern appearances",
+          "Various radio show calls and interviews"
+        ],
+        "Book Promotions": [
+          "Based on a True Story book tour interviews (2016)",
+          "Facebook Live chats",
+          "Promotional appearances"
+        ],
+        "Special Content": [
+          "Poker game shows and interviews",
+          "Commercial appearances",
+          "Behind-the-scenes footage",
+          "Collaborations with other comedians"
+        ]
+      },
+      "file_formats": [
+        "MP4",
+        "M4V",
+        "IA compressed"
+      ],
+      "estimated_files": "400+"
+    },
+    {
+      "name": "Norm Macdonald Live Podcast",
+      "url": "https://archive.org/details/Norm_Macdonald_Live",
+      "size": "24.1GB",
+      "upload_date": "2018-08-19",
+      "total_views": "2,143,978",
+      "favorites": "2,680",
+      "description": "Complete archive of the Norm Macdonald Live podcast (2013-2017)",
+      "seasons": {
+        "Season 1 (2013)": [
+          "Episode 1: Super Dave Osborne",
+          "Episode 2: Tom Green",
+          "Episode 3: Fred Stoller",
+          "Episode 4: Russell Brand",
+          "Episode 5: Billy Bob Thornton",
+          "Episode 6: Larry King",
+          "Episode 7: Kevin Nealon",
+          "Episode 8: Simon Helberg",
+          "Episode 9: Nick Swardson",
+          "Episode 10: Andy Dick",
+          "Episode 11: Gilbert Gottfried Pt. 1",
+          "Episode 12: Gilbert Gottfried Pt. 2"
+        ],
+        "Season 2 (2014)": [
+          "Episode 1: Ray Romano",
+          "Episode 2: Adam Sandler",
+          "Episode 3: David Spade",
+          "Episode 4: Carl Reiner",
+          "Episode 5: Fred Willard",
+          "Episode 6: Todd Glass Pt. 1",
+          "Episode 7: Todd Glass Pt. 2",
+          "Episode 8: Bob Saget",
+          "Episode 9: David Koechner",
+          "Episode 10: Roseanne Barr",
+          "Episode 11: Marc Maron",
+          "Episode 12: Martin Mull",
+          "Episode 13: Jack Carter"
+        ],
+        "Season 3 (2016-2017)": [
+          "Episode 1: Stephen Merchant",
+          "Episode 2: Bill Hader",
+          "Episode 3: David Letterman",
+          "Episode 4: Bobby Lee",
+          "Episode 5: Tim Allen",
+          "Episode 6: Margaret Cho",
+          "Episode 7: Caitlyn Jenner",
+          "Episode 8: Dana Carvey",
+          "Episode 9: Jerry Seinfeld",
+          "Episode 10: Jim Carrey",
+          "Episode 11: Mike Tyson"
+        ]
+      },
+      "file_formats": [
+        "MP4",
+        "OGV"
+      ],
+      "total_episodes": "39"
+    },
+    {
+      "name": "Sports Show with Norm Macdonald",
+      "url": "https://archive.org/details/sports-show-with-norm-macdonald-s-1-ep-1",
+      "size": "21.6GB",
+      "upload_date": "2022-01-19",
+      "total_views": "7,462",
+      "favorites": "53",
+      "description": "Norm's short-lived Comedy Central sports show from 2011",
+      "content": [
+        "Complete season episodes",
+        "Sports commentary and interviews",
+        "Norm's unique take on sports news",
+        "Guest appearances by sports figures"
+      ],
+      "file_formats": [
+        "H.264",
+        "MPEG4"
+      ],
+      "note": "Cancelled due to sensitivity from sports figures being roasted"
+    },
+    {
+      "name": "Norm Macdonald MKV Archive",
+      "url": "https://archive.org/details/normappearancesarchivemkv",
+      "size": "12.2GB",
+      "upload_date": "2022-02-18",
+      "total_views": "1,222",
+      "favorites": "9",
+      "description": "Curated collection in MKV format from r/normmacdonald Google Sheets",
+      "content": [
+        "SNL 25th Anniversary Special (1999)",
+        "Comedy Central's Last Laugh '04",
+        "Hollywood & Wine behind-the-scenes",
+        "Super Dave Osborne collaborations"
+      ],
+      "file_formats": [
+        "MKV",
+        "MP4"
+      ],
+      "source": "Reddit r/normmacdonald community archive"
+    },
+    {
+      "name": "Based on a True Story Audiobook",
+      "url": "https://archive.org/details/norm-macdonald-audiobook-full",
+      "upload_date": "2016-10-23",
+      "description": "Complete audiobook of Norm's memoir read by himself",
+      "content": [
+        "Full text available for reading",
+        "Audio format available",
+        "Introduction read by Norm",
+        "8-part complete audiobook series"
+      ],
+      "file_formats": [
+        "Audio files",
+        "Text",
+        "PDF"
+      ],
+      "chapters": "Multiple parts covering his full memoir"
+    }
+  ],
+  "secondary_collections": [
+    {
+      "name": "The Norm Show (480p)",
+      "url": "https://archive.org/details/the-norm-show-480p",
+      "description": "Episodes from Norm's ABC sitcom (1999-2001)",
+      "content": "Complete episodes from the TV series"
+    },
+    {
+      "name": "Norm Macdonald (1959-2021) Collection",
+      "url": "https://archive.org/details/01-norm-mac-donald",
+      "size": "80.4GB",
+      "description": "Another comprehensive collection focusing on late-night appearances",
+      "content": [
+        "Conan O'Brien appearances chronologically organized",
+        "Letterman appearances",
+        "Lights Out with David Spade",
+        "Based on a True Story audiobook parts"
+      ]
+    },
+    {
+      "name": "Usenet Archive - alt.fan.norm-macdonald",
+      "url": "https://archive.org/download/usenet-alt",
+      "description": "Early internet forum discussions about Norm Macdonald",
+      "content": "Historical Usenet newsgroup posts and discussions",
+      "file_format": "MBOX archive files"
+    },
+    {
+      "name": "I'm Not Norm Compilation",
+      "url": "https://archive.org/details/imnotnorm_201908",
+      "description": "Best of compilation spanning various topics",
+      "content": "Curated highlights covering Hitler to Stalin, 9/11 to current events"
+    }
+  ],
+  "search_tips": [
+    "Search 'norm macdonald' OR 'norm macdonald' in Internet Archive",
+    "Filter by collection type (videos, audio, texts)",
+    "Many files have multiple formats available",
+    "Some collections have extensive metadata and descriptions",
+    "Audio files often have both streaming and download options"
+  ],
+  "notable_missing_content": [
+    "Normism: The Philosophy of Norm Macdonald by Max West - NOT FOUND in any collection",
+    "Some SNL Weekend Update segments may be missing due to NBC copyright",
+    "Certain radio appearances may be incomplete",
+    "Some live performances exist only as bootlegs"
+  ]
+}
